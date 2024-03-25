@@ -14,7 +14,7 @@
 #define ding 0 //ATTINY 0, NANO 2
 #define dingTime 30
 #define debounce 250
-#define theshold 10 // max * theshold; 0 < theshold < 1
+#define theshold 80 // max * theshold; 0 < theshold < 1
 
 #define bufferSize 6
 
