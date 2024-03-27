@@ -1,0 +1,3 @@
+Possibili fototransistor per il ricevitore a matrice
+B15P1LS--H9C0001I3U1930		https://www.digikey.it/en/products/detail/harvatek-corporation/B15P1LS-H9C0001I3U1930/13969735
+Precise laser: VLM-635-11 LPT	https://www.digikey.it/en/products/detail/quarton-inc/VLM-635-11-LPT/8636960
