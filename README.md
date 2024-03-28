@@ -1,6 +1,6 @@
 Progetto laser target,
 
-In questa seconda versione uso un pannello solare per vedere quando impatta collegato al pin Ain3, e potenziometro per la soglia nel pin Ain2
+In questa seconda versione uso un pannello solare per vedere quando il laser impatta collegato al pin Ain3, e potenziometro per la soglia nel pin Ain2
 
 ```
 //                  +-\/-+
