@@ -1,4 +1,4 @@
-Progetto laser targhet,
+Progetto laser target,
 
 In questa seconda versione uso un pannello solare per vedere quando impatta collegato al pin Ain3, e potenziometro per la soglia nel pin Ain2
 
