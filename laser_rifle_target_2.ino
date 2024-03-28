@@ -59,8 +59,8 @@ void loop() {
     if(info){
       Serial.println("HIT");
     }
-    dong();
     delay(debounce);
+    dong();
   }
   buffer[index] = sensorValue;
   index += 1;
